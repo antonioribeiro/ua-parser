@@ -25,7 +25,7 @@ class Fetcher
             $this->streamContext = stream_context_create(
                 array(
                     'ssl' => array(
-                        'verify_peer'         => true,
+                        'verify_peer'         => false,
                         'verify_depth'        => 5,
                         'cafile'              => __DIR__ . '/../../../resources/ca-bundle.crt',
                         'CN_match'            => 'raw.github.com',
