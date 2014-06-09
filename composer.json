@@ -1,6 +1,6 @@
 {
-    "name": "tobie/ua-parser",
-    "description": "A multi-language port of Browserscope's user agent parser.",
+    "name": "pragmarx/ua-parser",
+    "description": "DO NOT USER THIS PACKAGE DIRECTLY, pleas go to https://packagist.org/packages/tobie/ua-parser ",
     "require": {
         "symfony/yaml": "~2",
         "symfony/filesystem": "~2",
