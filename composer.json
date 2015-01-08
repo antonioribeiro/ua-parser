@@ -2,7 +2,7 @@
     "name": "pragmarx/ua-parser",
     "description": "DO NOT USER THIS PACKAGE DIRECTLY, pleas go to https://packagist.org/packages/tobie/ua-parser ",
     "require": {
-        "symfony/yaml": ">=2.5,<2.7",
+        "symfony/yaml": "~2",
         "symfony/filesystem": "~2",
         "symfony/finder": "~2",
         "symfony/console": "~2"
